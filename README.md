@@ -62,7 +62,4 @@ Open the notebook in Jupyter
 Run all cells
 
 Use the Play, Pause, and Slow Down buttons to control the animation
-
-📸 Preview
-
-image image
+
