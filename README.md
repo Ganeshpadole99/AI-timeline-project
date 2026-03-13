@@ -3,22 +3,35 @@
 This project visualizes the major milestones in Artificial Intelligence using Python.
 
 ## Technologies Used
+
 - Python
 - Matplotlib
 - Pandas
 - NumPy
+- IPython Widgets
 
 ## Features
+
 - Animated AI timeline
-- AI milestone descriptions
-- Data visualization
+- Interactive play and pause buttons
+- Milestone descriptions
+- Clean visualization
 
-## How to Run
+## AI Milestones Included
 
-Install libraries:
+1950 - Turing Test  
+1956 - Dartmouth Conference  
+1966 - ELIZA Chatbot  
+1980 - Expert Systems  
+1997 - Deep Blue vs Kasparov  
+2006 - Netflix Prize  
+2011 - Siri  
+2016 - AlphaGo  
+2018 - Google Duplex  
+2023 - ChatGPT  
+2030 - Artificial General Intelligence (Prediction)
 
-pip install -r requirements.txt
+## Installation
 
-Run the project:
+Clone the repository:
 
-python app.py
